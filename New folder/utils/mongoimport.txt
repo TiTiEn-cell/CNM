@@ -1,0 +1,1 @@
+mongoimport --db dbNameTest --collection Zips --file link
